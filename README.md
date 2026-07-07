@@ -10,8 +10,8 @@ A simple and responsive **Even & Odd Number Checker** built with **HTML5**, **Bo
 ---
 
 ## 📸 Screenshot
+<img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/86a0be92-cc93-4d35-8caa-1da713ffec34" />
 
-> Add a screenshot of your project here.
 
 ```text
 images/screenshot.png
